@@ -1,0 +1,491 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",A&E (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k0/index.m3u8
+#EXTINF:-1 group-title="-",AE
+http://181.78.8.199:8000/play/a0al/index.m3u8
+#EXTINF:-1 group-title="-",AE
+http://181.78.8.199:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="CO - Animal Planet" tvg-logo="https://cdn.mitvstatic.com/channels/co_animal-planet_l.png" group-title="-",ANIMAL PLANET
+http://181.78.8.199:8000/play/a0by/index.m3u8
+#EXTINF:-1 group-title="-",ANTV
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="CO - AXN" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_l.png" group-title="-",AXN
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="CO - AXN" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_l.png" group-title="-",AXN
+http://181.78.8.199:8000/play/a0am/index.m3u8
+#EXTINF:-1 tvg-id="CO - AXN" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_l.png" group-title="-",AXN (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k1/index.m3u8
+#EXTINF:-1 tvg-id="CO - Animal Planet" tvg-logo="https://cdn.mitvstatic.com/channels/co_animal-planet_l.png" group-title="-",Animal Planet HD AMAZONAS
+http://181.78.8.199:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="-",BABY TV NUEVO
+http://181.78.8.199:8000/play/a0kt/index.m3u8
+#EXTINF:-1 group-title="-",BABYTV  ENVIADO
+http://181.78.8.199:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="-",BANDAMAX
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="-",BITME
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+#EXTINF:-1 group-title="-",CABLE NOTICIAS
+http://181.78.8.199:8000/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="-",CABLE NOTICIAS
+http://181.78.8.199:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_l.png" group-title="-",CANAL 1 NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0cz/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_l.png" group-title="-",CANAL 12 VALLEDUPAR
+http://181.78.8.199:8000/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_l.png" group-title="-",CANAL 13 NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_l.png" group-title="-",CANAL CAPITAL NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_l.png" group-title="-",CANAL CONGRE NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d2/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_l.png" group-title="-",CANAL DE LAS ESTRELLAS
+http://181.78.8.199:8000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_l.png" group-title="-",CANAL I
+http://181.78.8.199:8000/play/a0jk/index.m3u8
+#EXTINF:-1 group-title="-",CANALES NACIONALES
+http://181.78.8.199:8000/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="-",CANALESTRELLAS
+http://181.78.8.199:8000/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="-",CANALINSTITUCIONAL  NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="CO - Caracol" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_l.png" group-title="-",CARACOL
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-id="CO - Caracol" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_l.png" group-title="-",CARACOL (PRINCIPAL)
+http://181.78.8.199:8000/play/a0jz/index.m3u8
+#EXTINF:-1 tvg-id="CO - Caracol" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_l.png" group-title="-",CARACOL 2 DIRECTO PARA SENCORE
+http://181.78.8.199:8000/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-id="CO - Caracol" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_l.png" group-title="-",CARACOL LOCAL
+http://181.78.8.199:8000/play/a08s/index.m3u8
+#EXTINF:-1 tvg-id="CO - Caracol" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_l.png" group-title="-",CARACOL SRT
+http://181.78.8.199:8000/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-logo="https://cdn.mitvstatic.com/channels/co_cartoon-network_l.png" group-title="-",CARTOON NETWORK (PARA TODOS ACTUALIZACION)
+http://181.78.8.199:8000/play/a0jq/index.m3u8
+#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-logo="https://cdn.mitvstatic.com/channels/co_cartoon-network_l.png" group-title="-",CARTOON NETWORK ENVIADO
+http://181.78.8.199:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="-",CARTOONITO (PARA TODOS ACTUALIZACION)
+http://181.78.8.199:8000/play/a0jr/index.m3u8
+#EXTINF:-1 group-title="-",CARTOONITO ENVIADO
+http://181.78.8.199:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_l.png" group-title="-",CINE CANAL NUEVO
+http://181.78.8.199:8000/play/a0kb/index.m3u8
+#EXTINF:-1 group-title="-",CINE FAMILIAR
+http://181.78.8.199:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="-",CINE HISPANO
+http://181.78.8.199:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="-",CINE INFANTIL
+http://181.78.8.199:8000/play/a09o/index.m3u8
+#EXTINF:-1 group-title="-",CINE MEXICANO
+http://181.78.8.199:8000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="-",CINE MEXICANO ENVIADO
+http://181.78.8.199:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="-",CINE PREMIUN
+http://181.78.8.199:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="-",CITY ENVIADO
+http://181.78.8.199:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="-",CITY ENVIADO ENVIAR
+http://181.78.8.199:8000/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="-",CNN
+http://181.78.8.199:8000/play/a0dt/index.m3u8
+#EXTINF:-1 group-title="-",CNN ENVIADO
+http://181.78.8.199:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="-",CNN INTERNACIONAL SRT
+http://181.78.8.199:8000/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="-",CNN SRT
+http://181.78.8.199:8000/play/a0jf/index.m3u8
+#EXTINF:-1 group-title="-",COLOMBEIA
+http://181.78.8.199:8000/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-id="CO - Comedy Central" tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central_l.png" group-title="-",COMEDY
+http://181.78.8.199:8000/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="-",CONCIENCIA TV
+http://181.78.8.199:8000/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="-",CRISTOVISION
+http://181.78.8.199:8000/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id="CO - Cinecanal" tvg-logo="https://cdn.mitvstatic.com/channels/co_cinecanal_l.png" group-title="-",Cinecanal HD
+http://181.78.8.199:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-id="CO - Comedy Central" tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central_l.png" group-title="-",Comedy Central HD
+http://181.78.8.199:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="-",DEPELICULA
+http://181.78.8.199:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="-",DEPELICULAS (PRINCIPAL)
+http://181.78.8.199:8000/play/a0kk/index.m3u8
+#EXTINF:-1 group-title="-",DEPELICULAS SRT
+http://181.78.8.199:8000/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-id="CO - DHE" tvg-logo="https://cdn.mitvstatic.com/channels/co_dhe_l.png" group-title="-",DHE HD
+http://181.78.8.199:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-channel_l.png" group-title="-",DISCOVERY CHANNEL
+http://181.78.8.199:8000/play/a0c4/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-channel_l.png" group-title="-",DISCOVERY ID
+http://181.78.8.199:8000/play/a0c5/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-channel_l.png" group-title="-",DISNEY CHANNEL  ENVIADO
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-channel_l.png" group-title="-",DISNEY CHANNEL NUEVO
+http://181.78.8.199:8000/play/a0ku/index.m3u8
+#EXTINF:-1 tvg-id="CO - Disney Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_disney-multicountry_l.png" group-title="-",DISNEY JR ENVIADO
+http://181.78.8.199:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="CO - Disney Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_disney-multicountry_l.png" group-title="-",DISNEY JR NUEVO
+http://181.78.8.199:8000/play/a0kv/index.m3u8
+#EXTINF:-1 group-title="-",DISTRITO COMEDIA
+http://181.78.8.199:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="-",DISTRITO COMEDIA (PRINCIPAL)
+http://181.78.8.199:8000/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-channel_l.png" group-title="-",Discovery H&H HD
+http://181.78.8.199:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-channel_l.png" group-title="-",Discovery HD
+http://181.78.8.199:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-channel_l.png" group-title="-",Discovery Kids HD
+http://181.78.8.199:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="-",Discoveryhh
+http://181.78.8.199:8000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="-",Discoverykids
+http://181.78.8.199:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",EDGE (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k2/index.m3u8
+#EXTINF:-1 tvg-id="CO - A&E Mundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo_l.png" group-title="-",EL MUNDO EL CAMPO
+http://181.78.8.199:8000/play/a0hb/index.m3u8
+#EXTINF:-1 group-title="-",ENCODER DE 8P
+http://181.78.8.199:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="-",ENCODER DE 8P 2
+http://181.78.8.199:8000/play/a0ht/index.m3u8
+#EXTINF:-1 group-title="-",ENLACE
+http://181.78.8.199:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="-",ENTERTEIMENT (PRINCIPAL)
+http://181.78.8.199:8000/play/a0ks/index.m3u8
+#EXTINF:-1 group-title="-",ENTRETEIMENT
+http://181.78.8.199:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="-",EQUIPO DE NICK
+http://181.78.8.199:8000/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 1
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 1 NUEVO
+http://181.78.8.199:8000/play/a0k9/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2
+http://181.78.8.199:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://181.78.8.199:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 NUEVO
+http://181.78.8.199:8000/play/a0ka/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3
+http://181.78.8.199:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://181.78.8.199:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 NUEVO
+http://181.78.8.199:8000/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4
+http://181.78.8.199:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 NUEVO
+http://181.78.8.199:8000/play/a0kf/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4HD
+http://181.78.8.199:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 NUEVO
+http://181.78.8.199:8000/play/a0kg/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://181.78.8.199:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6 NUEVO
+http://181.78.8.199:8000/play/a0kh/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://181.78.8.199:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7 NUEVO
+http://181.78.8.199:8000/play/a0ki/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7HD
+http://181.78.8.199:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.78.8.199:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="-",ESPN5
+http://181.78.8.199:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="-",ESPN6
+http://181.78.8.199:8000/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="-",ESPN7
+http://181.78.8.199:8000/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal de las Estrellas HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-de-las-estrellas-hd_l.png" group-title="-",ESTRELLAS (PRINCIPAL)
+http://181.78.8.199:8000/play/a0kj/index.m3u8
+#EXTINF:-1 group-title="-",EWTN
+http://181.78.8.199:8000/play/a0ee/index.m3u8
+#EXTINF:-1 group-title="-",Entreteiment
+http://181.78.8.199:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-logo="https://cdn.mitvstatic.com/channels/co_cartoon-network_l.png" group-title="-",FOOD NETWORK
+http://181.78.8.199:8000/play/a0hu/index.m3u8
+#EXTINF:-1 group-title="-",FX
+http://181.78.8.199:8000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="-",FX NUEVO
+http://181.78.8.199:8000/play/a0kw/index.m3u8
+#EXTINF:-1 group-title="-",GLOBOVISION
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="-",GLOBOVISION TRANSCODIFICADO
+http://181.78.8.199:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="CO - Golden" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden_l.png" group-title="-",GOLDEN (PRINCIPAL)
+http://181.78.8.199:8000/play/a0km/index.m3u8
+#EXTINF:-1 tvg-id="CO - Golden" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden_l.png" group-title="-",GOLDEN EDGE
+http://181.78.8.199:8000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-id="CO - Golden" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden_l.png" group-title="-",Golden
+http://181.78.8.199:8000/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="-",Goldenedge
+http://181.78.8.199:8000/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="-",HGTV
+http://181.78.8.199:8000/play/a0je/index.m3u8
+#EXTINF:-1 tvg-id="CO - History" tvg-logo="https://cdn.mitvstatic.com/channels/co_history_l.png" group-title="-",HISTORY 1 (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k3/index.m3u8
+#EXTINF:-1 tvg-id="CO - History" tvg-logo="https://cdn.mitvstatic.com/channels/co_history_l.png" group-title="-",HISTORY 2 (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k4/index.m3u8
+#EXTINF:-1 group-title="-",HISTORY1
+http://181.78.8.199:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="-",HISTORY2 INTERNO
+http://181.78.8.199:8000/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="-",HOGAR TV HD
+http://181.78.8.199:8000/play/a0g0/index.m3u8
+#EXTINF:-1 tvg-id="CO - HTV" tvg-logo="https://cdn.mitvstatic.com/channels/co_htv_l.png" group-title="-",HTV (PARA TODOS ACTUALIZACION)
+http://181.78.8.199:8000/play/a0js/index.m3u8
+#EXTINF:-1 tvg-id="CO - HTV" tvg-logo="https://cdn.mitvstatic.com/channels/co_htv_l.png" group-title="-",HTV SRT EN
+http://181.78.8.199:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="-",History2
+http://181.78.8.199:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="-",ID HD
+http://181.78.8.199:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="-",IVC
+http://181.78.8.199:8000/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="-",IVC (ADULTSWIM)
+http://181.78.8.199:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="-",Kanal D Drama HD
+http://181.78.8.199:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",KanalDrama
+http://181.78.8.199:8000/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="-",LA KALLE
+http://181.78.8.199:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="CO - FOX Life" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-life_l.png" group-title="-",LIFE TIME  (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k5/index.m3u8
+#EXTINF:-1 group-title="-",LIFETIME INTERNO
+http://181.78.8.199:8000/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="-",MERIDIANO
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="CO - MTV" tvg-logo="https://cdn.mitvstatic.com/channels/co_m-tv_l.png" group-title="-",MTV
+http://181.78.8.199:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-id="CO - MTV" tvg-logo="https://cdn.mitvstatic.com/channels/co_m-tv_l.png" group-title="-",MTV PARA TRANSCODIFICAR
+http://181.78.8.199:8000/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-id="CO - VH1 Mega Hits" tvg-logo="https://cdn.mitvstatic.com/channels/co_vh1-mega-hits_l.png" group-title="-",MUSICA HITS
+http://181.78.8.199:8000/play/a09u/index.m3u8
+#EXTINF:-1 group-title="-",MUSICA POPULAR
+http://181.78.8.199:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="-",MUSICA REGUETON
+http://181.78.8.199:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="-",MUSICA SALSA
+http://181.78.8.199:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="-",NATGEO NUEVO
+http://181.78.8.199:8000/play/a0kc/index.m3u8
+#EXTINF:-1 group-title="-",NEXT HD
+http://181.78.8.199:8000/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="-",NICK JR TRANSCODIFICAR
+http://181.78.8.199:8000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="-",NICK PARA TRANSCODIFICAR
+http://181.78.8.199:8000/play/a0i2/index.m3u8
+#EXTINF:-1 group-title="-",NICKJR
+http://181.78.8.199:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="-",NSTV
+http://181.78.8.199:8000/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="-",NTN 24
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="-",NUESTRATELE
+http://181.78.8.199:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="CO - Nat Geo Wild" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_l.png" group-title="-",Nat Geo HD
+http://181.78.8.199:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="-",Natgeo
+http://181.78.8.199:8000/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="-",Nick HD
+http://181.78.8.199:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="-",OLE 1
+http://181.78.8.199:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="-",OLE 2.2
+http://181.78.8.199:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="-",PANICO
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-id="CO - Paramount Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_l.png" group-title="-",PARAMOUNT HD PARA TRANSCODIFICAR
+http://181.78.8.199:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="CO - Paramount Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_l.png" group-title="-",PARAMOUNT TRANSCODIFICADO
+http://181.78.8.199:8000/play/a0c8/index.m3u8
+#EXTINF:-1 tvg-id="CO - RCN" tvg-logo="https://cdn.mitvstatic.com/channels/co_rcn_l.png" group-title="-",RCN (PRINCIPALES)
+http://181.78.8.199:8000/play/a0jy/index.m3u8
+#EXTINF:-1 tvg-id="CO - RCN" tvg-logo="https://cdn.mitvstatic.com/channels/co_rcn_l.png" group-title="-",RCN ENVIO SEÑAL
+http://181.78.8.199:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-id="CO - RCN" tvg-logo="https://cdn.mitvstatic.com/channels/co_rcn_l.png" group-title="-",RCN LOCAL
+http://181.78.8.199:8000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-id="CO - RCN" tvg-logo="https://cdn.mitvstatic.com/channels/co_rcn_l.png" group-title="-",RCN NOVELAS
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="-",RPC
+http://181.78.8.199:8000/play/a0ih/index.m3u8
+#EXTINF:-1 group-title="-",RUMBA TV
+http://181.78.8.199:8000/play/a0ec/index.m3u8
+#EXTINF:-1 group-title="-",RUMBA TV HD
+http://181.78.8.199:8000/play/a0fy/index.m3u8
+#EXTINF:-1 group-title="-",SCI
+http://181.78.8.199:8000/play/a0hv/index.m3u8
+#EXTINF:-1 tvg-id="CO - Señal Colombia" tvg-logo="https://cdn.mitvstatic.com/channels/co_senal-colombia_l.png" group-title="-",SEÑAL COLOMBIA  NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="CO - Sony" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_l.png" group-title="-",SONY CHANNEL
+http://181.78.8.199:8000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="CO - Sony" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_l.png" group-title="-",SONY CHANNEL
+http://181.78.8.199:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="CO - Sony" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_l.png" group-title="-",SONY CHANNEL  (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k6/index.m3u8
+#EXTINF:-1 tvg-id="CO - Sony" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_l.png" group-title="-",SONY MOVIES  (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k7/index.m3u8
+#EXTINF:-1 tvg-id="CO - Sony" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_l.png" group-title="-",SONY MUVIES
+http://181.78.8.199:8000/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-id="CO - Sony" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_l.png" group-title="-",SONY MUVIES
+http://181.78.8.199:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="CO - Space" tvg-logo="https://cdn.mitvstatic.com/channels/co_space_l.png" group-title="-",SPACE (PARA TODOS ACTUALIZACION)
+http://181.78.8.199:8000/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-id="CO - Space" tvg-logo="https://cdn.mitvstatic.com/channels/co_space_l.png" group-title="-",SPACE SRT EN
+http://181.78.8.199:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="-",STARCHANNEL
+http://181.78.8.199:8000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="-",STARCHANNEL NUEVO
+http://181.78.8.199:8000/play/a0kd/index.m3u8
+#EXTINF:-1 tvg-id="CO - Universal Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_universal-channel_l.png" group-title="-",STUDIO  UNIVERSAL (PRINCIPAL)
+http://181.78.8.199:8000/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-id="CO - VH1 Classic USA" tvg-logo="https://cdn.mitvstatic.com/channels/co_vh1-classic-usa_l.png" group-title="-",SYFY (USA  TRANSCODIFICADO)
+http://181.78.8.199:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="CO - VH1 Classic USA" tvg-logo="https://cdn.mitvstatic.com/channels/co_vh1-classic-usa_l.png" group-title="-",SYFY (USA)
+http://181.78.8.199:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="-",Studiouniversal
+http://181.78.8.199:8000/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="-",TCM
+http://181.78.8.199:8000/play/a0du/index.m3u8
+#EXTINF:-1 group-title="-",TCM (PARA TODOS ACTUALIZACION)
+http://181.78.8.199:8000/play/a0ju/index.m3u8
+#EXTINF:-1 tvg-id="CO - TeleAmiga" tvg-logo="https://cdn.mitvstatic.com/channels/co_teleamiga_l.png" group-title="-",TELEAMIGA
+http://181.78.8.199:8000/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="CO - TeleAmiga" tvg-logo="https://cdn.mitvstatic.com/channels/co_teleamiga_l.png" group-title="-",TELEAMIGA ENVIADO
+http://181.78.8.199:8000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-id="CO - Teleantioquia" tvg-logo="https://cdn.mitvstatic.com/channels/co_teleantioquia_l.png" group-title="-",TELEANTIOQUIA NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="-",TELECAFE NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d8/index.m3u8
+#EXTINF:-1 tvg-id="CO - Telecaribe" tvg-logo="https://cdn.mitvstatic.com/channels/co_telecaribe_l.png" group-title="-",TELECARIBE NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="CO - Telehit HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_telehit-hd_l.png" group-title="-",TELEHIT MUSICA
+http://181.78.8.199:8000/play/a0g7/index.m3u8
+#EXTINF:-1 group-title="-",TELEISLAS
+http://181.78.8.199:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="-",TELEMETRO
+http://181.78.8.199:8000/play/a0ii/index.m3u8
+#EXTINF:-1 tvg-id="CO - Telemundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_telemundo_l.png" group-title="-",TELEMUNDO (PRINCIPAL)
+http://181.78.8.199:8000/play/a0kr/index.m3u8
+#EXTINF:-1 group-title="-",TELENOSTALGIA ENVIADO
+http://181.78.8.199:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="-",TELENOSTALGIA HD
+http://181.78.8.199:8000/play/a0fz/index.m3u8
+#EXTINF:-1 group-title="-",TELENOVELAS
+http://181.78.8.199:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="-",TELENOVELAS (PRINCIPAL)
+http://181.78.8.199:8000/play/a0k8/index.m3u8
+#EXTINF:-1 tvg-id="CO - Telepacifico" tvg-logo="https://cdn.mitvstatic.com/channels/co_telepacifico_l.png" group-title="-",TELEPACIFICO NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="-",TELESUR
+http://181.78.8.199:8000/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="-",TELEVEN
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="-",TELEVEN TRANSCODIFICADO
+http://181.78.8.199:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="-",TELEVISA 1
+http://181.78.8.199:8000/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="-",TELEVISA CON ENTRETEIMENT
+http://181.78.8.199:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="-",TELEVISA DE 3 CANALES
+http://181.78.8.199:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="CO - TLC" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_l.png" group-title="-",TLC
+http://181.78.8.199:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-id="CO - TLC" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_l.png" group-title="-",TLC
+http://181.78.8.199:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="-",TLT
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="CO - TNT" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt_l.png" group-title="-",TNT (PARA TODOS ACTUALIZACION)
+http://181.78.8.199:8000/play/a0jv/index.m3u8
+#EXTINF:-1 tvg-id="CO - TNT" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt_l.png" group-title="-",TNT NOVELAS
+http://181.78.8.199:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-id="CO - TNT" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt_l.png" group-title="-",TNT Novelas HD
+http://181.78.8.199:8000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="CO - TNT" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt_l.png" group-title="-",TNT SERIES (PARA TODOS ACTUALIZACION)
+http://181.78.8.199:8000/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-id="CO - TNT" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt_l.png" group-title="-",TNT SERIES SRT EN
+http://181.78.8.199:8000/play/a098/index.m3u8
+#EXTINF:-1 tvg-id="CO - TNT" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt_l.png" group-title="-",TNT SRT EN
+http://181.78.8.199:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="-",TOONCAST (PARA TODOS ACTUALIZACION)
+http://181.78.8.199:8000/play/a0jx/index.m3u8
+#EXTINF:-1 group-title="-",TOONCAST ENVIADO
+http://181.78.8.199:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="CO - Canal TRO" tvg-logo="https://cdn.mitvstatic.com/channels/co_tro_l.png" group-title="-",TRO NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d9/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Turbo" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-turbo_l.png" group-title="-",TURBO
+http://181.78.8.199:8000/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Turbo" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-turbo_l.png" group-title="-",TURBO
+http://181.78.8.199:8000/play/a0ci/index.m3u8
+#EXTINF:-1 tvg-id="CO - Tv Agro" tvg-logo="https://cdn.mitvstatic.com/channels/co_tv-agro_l.png" group-title="-",TV AGRO HD
+http://181.78.8.199:8000/play/a0fj/index.m3u8
+#EXTINF:-1 tvg-id="CO - Max" tvg-logo="https://cdn.mitvstatic.com/channels/co_max_l.png" group-title="-",TV MAX
+http://181.78.8.199:8000/play/a0ij/index.m3u8
+#EXTINF:-1 group-title="-",TVAGRO
+http://181.78.8.199:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="-",TVES
+http://181.78.8.199:8000/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="-",TVFANB
+http://181.78.8.199:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="CO - Universal Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_universal-channel_l.png" group-title="-",UNIVERSAL
+http://181.78.8.199:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="CO - Universal Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_universal-channel_l.png" group-title="-",UNIVERSAL  STUDIO
+http://181.78.8.199:8000/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-channel_l.png" group-title="-",UNIVERSAL CHANNEL (PRINCIPAL)
+http://181.78.8.199:8000/play/a0ko/index.m3u8
+#EXTINF:-1 tvg-id="CO - Univision" tvg-logo="https://cdn.mitvstatic.com/channels/co_univision_l.png" group-title="-",UNIVISION
+http://181.78.8.199:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id="CO - Univision" tvg-logo="https://cdn.mitvstatic.com/channels/co_univision_l.png" group-title="-",UNIVISION
+http://181.78.8.199:8000/play/a0er/index.m3u8
+#EXTINF:-1 tvg-id="CO - Univision" tvg-logo="https://cdn.mitvstatic.com/channels/co_univision_l.png" group-title="-",UNIVISION (PRINCIPAL)
+http://181.78.8.199:8000/play/a0kn/index.m3u8
+#EXTINF:-1 tvg-id="CO - VH1 Classic USA" tvg-logo="https://cdn.mitvstatic.com/channels/co_vh1-classic-usa_l.png" group-title="-",USA (PRINCIPAL)
+http://181.78.8.199:8000/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-id="CO - Universal Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_universal-channel_l.png" group-title="-",Universal
+http://181.78.8.199:8000/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="-",VENEVISION
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 group-title="-",VENEZOLANOS  1 PRIN
+http://181.78.8.199:8000/play/a0ji/index.m3u8
+#EXTINF:-1 group-title="-",VENEZOLANOS 2 PRO
+http://181.78.8.199:8000/play/a0jj/index.m3u8
+#EXTINF:-1 group-title="-",VTV
+http://181.78.8.199:8000/play/a0jl/index.m3u8
+#EXTINF:-1 group-title="-",Venevision
+http://181.78.8.199:8000/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id="CO - Warner Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_warner_l.png" group-title="-",WARNER
+http://181.78.8.199:8000/play/a0ia/index.m3u8
+#EXTINF:-1 tvg-id="CO - Win Sports" tvg-logo="https://cdn.mitvstatic.com/channels/co_win-sports_l.png" group-title="-",WIN NORMAL
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1 tvg-id="CO - Win Sports" tvg-logo="https://cdn.mitvstatic.com/channels/co_win-sports_l.png" group-title="-",WIN SPORT MAS  LOCAL
+http://181.78.8.199:8000/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="-",WINSPORT
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="-",WINSPORT PARA CAMBIO
+http://181.78.8.199:8000/play/winsport/index.m3u8
+#EXTINF:-1 tvg-id="CO - HBO Plus Este" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-plus-este_l.png" group-title="-",ZONA TV PLUS
+http://181.78.8.199:8000/play/a0ie/index.m3u8
+#EXTINF:-1 group-title="-",ZOOM
+http://181.78.8.199:8000/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-id="CO - Cinecanal" tvg-logo="https://cdn.mitvstatic.com/channels/co_cinecanal_l.png" group-title="-",cinecanal
+http://181.78.8.199:8000/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="-",comedycentral
+http://181.78.8.199:8000/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="-",ewtn enviado
+http://181.78.8.199:8000/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-id="CO - History" tvg-logo="https://cdn.mitvstatic.com/channels/co_history_l.png" group-title="-",history
+http://181.78.8.199:8000/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="-",lifetime
+http://181.78.8.199:8000/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="-",starchannel
+http://181.78.8.199:8000/play/a0c9/index.m3u8
+#EXTINF:-1 tvg-id="CO - Telemundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_telemundo_l.png" group-title="-",telemundo
+http://181.78.8.199:8000/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="-",telenovelas
+http://181.78.8.199:8000/play/a0cw/index.m3u8
+#EXTINF:-1 tvg-id="CO - Warner Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_warner_l.png" group-title="-",warner
+http://181.78.8.199:8000/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="-",ABN SRT
+http://181.78.8.199:8000/play/a0hh/index.m3u8
