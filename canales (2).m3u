@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="azteca-deportes" tvg-name="Azteca Deportes" tvg-logo="https://gambeta.vip/assets/img/canales/tv/azteca-deportes.webp" group-title="Deportes",Azteca Deportes
+https://cdn.gambeta.vip/tv/azteca-deportes.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="liga-1" tvg-name="Liga 1" tvg-logo="https://gambeta.vip/assets/img/canales/tv/liga-1.webp" group-title="Deportes",Liga 1
+https://cdn.gambeta.vip/tv/liga-1.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="liga-1-max" tvg-name="Liga 1 Max" tvg-logo="https://gambeta.vip/assets/img/canales/tv/liga-1-max.webp" group-title="Deportes",Liga 1 Max
+https://cdn.gambeta.vip/tv/liga-1-max.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="tudn" tvg-name="TUDN" tvg-logo="https://gambeta.vip/assets/img/canales/tv/tudn.webp" group-title="Deportes",TUDN
+https://cdn.gambeta.vip/tv/tudn.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="vix-tudn" tvg-name="VIX TUDN" tvg-logo="https://gambeta.vip/assets/img/canales/tv/vix-tudn.webp" group-title="Deportes",VIX TUDN
+https://cdn.gambeta.vip/tv/vix-tudn.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="sky-sports-la-liga" tvg-name="Sky Sports La Liga" tvg-logo="https://gambeta.vip/assets/img/canales/tv/sky-sports-la-liga.webp" group-title="Deportes",Sky Sports La Liga
+https://cdn.gambeta.vip/tv/sky-sports-la-liga.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="fox-sports-premium" tvg-name="Fox Sports Premium" tvg-logo="https://gambeta.vip/assets/img/canales/tv/fox-sports-premium.webp" group-title="Deportes",Fox Sports Premium
+https://cdn.gambeta.vip/tv/fox-sports-premium.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="tyc-sports" tvg-name="TyC Sports" tvg-logo="https://gambeta.vip/assets/img/canales/tv/tyc-sports.webp" group-title="Deportes",TyC Sports
+https://cdn.gambeta.vip/tv/tyc-sports.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="movistar-la-liga" tvg-name="Movistar La Liga" tvg-logo="https://gambeta.vip/assets/img/canales/tv/movistar-la-liga.webp" group-title="Deportes",Movistar La Liga
+https://cdn.gambeta.vip/tv/movistar-la-liga.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="movistar-liga-de-campeones" tvg-name="Movistar Liga De Campeones" tvg-logo="https://gambeta.vip/assets/img/canales/tv/movistar-liga-de-campeones.webp" group-title="Deportes",Movistar Liga De Campeones
+https://cdn.gambeta.vip/tv/movistar-liga-de-campeones.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="bein-sports-xtra" tvg-name="Bein Sports Xtra" tvg-logo="https://gambeta.vip/assets/img/canales/tv/bein-sports-xtra.webp" group-title="Deportes",Bein Sports Xtra
+https://cdn.gambeta.vip/tv/bein-sports-xtra.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="directv-sports" tvg-name="Directv Sports" tvg-logo="https://gambeta.vip/assets/img/canales/tv/directv-sports.webp" group-title="Deportes",Directv Sports
+https://cdn.gambeta.vip/tv/directv-sports.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="directv-sports-2" tvg-name="Directv Sports 2" tvg-logo="https://gambeta.vip/assets/img/canales/tv/directv-sports-2.webp" group-title="Deportes",Directv Sports 2
+https://cdn.gambeta.vip/tv/directv-sports-2.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="directv-sports-plus" tvg-name="Directv Sports Plus" tvg-logo="https://gambeta.vip/assets/img/canales/tv/directv-sports-plus.webp" group-title="Deportes",Directv Sports Plus
+https://cdn.gambeta.vip/tv/directv-sports-plus.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn.webp" group-title="Deportes",ESPN
+https://cdn.gambeta.vip/tv/espn.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-2" tvg-name="ESPN 2" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-2.webp" group-title="Deportes",ESPN 2
+https://cdn.gambeta.vip/tv/espn-2.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-3" tvg-name="ESPN 3" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-3.webp" group-title="Deportes",ESPN 3
+https://cdn.gambeta.vip/tv/espn-3.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-4" tvg-name="ESPN 4" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-4.webp" group-title="Deportes",ESPN 4
+https://cdn.gambeta.vip/tv/espn-4.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-5" tvg-name="ESPN 5" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-5.webp" group-title="Deportes",ESPN 5
+https://cdn.gambeta.vip/tv/espn-5.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-6" tvg-name="ESPN 6" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-6.webp" group-title="Deportes",ESPN 6
+https://cdn.gambeta.vip/tv/espn-6.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-7" tvg-name="ESPN 7" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-7.webp" group-title="Deportes",ESPN 7
+https://cdn.gambeta.vip/tv/espn-7.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-mexico" tvg-name="ESPN Mexico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-mexico.webp" group-title="Deportes",ESPN Mexico
+https://cdn.gambeta.vip/tv/espn-mexico.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 Mexico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-2-mexico.webp" group-title="Deportes",ESPN 2 Mexico
+https://cdn.gambeta.vip/fl/espn2mx.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-3-mexico" tvg-name="ESPN 3 Mexico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-3-mexico.webp" group-title="Deportes",ESPN 3 Mexico
+https://cdn.gambeta.vip/tv/espn-3-mexico.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-4-mexico" tvg-name="ESPN 4 Mexico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-4-mexico.webp" group-title="Deportes",ESPN 4 Mexico
+https://cdn.gambeta.vip/tv/espn-4-mexico.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="espn-5-mexico" tvg-name="ESPN 5 Mexico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/espn-5-mexico.webp" group-title="Deportes",ESPN 5 Mexico
+https://cdn.gambeta.vip/tv/espn-5-mexico.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="fox-sports" tvg-name="Fox Sports" tvg-logo="https://gambeta.vip/assets/img/canales/tv/fox-sports.webp" group-title="Deportes",Fox Sports
+https://cdn.gambeta.vip/tv/fox-sports.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" tvg-logo="https://gambeta.vip/assets/img/canales/tv/fox-sports-2.webp" group-title="Deportes",Fox Sports 2
+https://cdn.gambeta.vip/tv/fox-sports-2.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="fox-sports-3" tvg-name="Fox Sports 3" tvg-logo="https://gambeta.vip/assets/img/canales/tv/fox-sports-3.webp" group-title="Deportes",Fox Sports 3
+https://cdn.gambeta.vip/tv/fox-sports-3.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="fox-sports-mexico" tvg-name="Fox Sports Mexico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/fox-sports-mexico.webp" group-title="Deportes",Fox Sports Mexico
+https://cdn.gambeta.vip/tv/fox-sports-mexico.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="fox-sports-2-mexico" tvg-name="Fox Sports 2 Mexico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/fox-sports-2-mexico.webp" group-title="Deportes",Fox Sports 2 Mexico
+https://cdn.gambeta.vip/tv/fox-sports-2-mexico.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="fox-sports-3-mexico" tvg-name="Fox Sports 3 Mexico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/fox-sports-3-mexico.webp" group-title="Deportes",Fox Sports 3 Mexico
+https://cdn.gambeta.vip/tv/fox-sports-3-mexico.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="https://gambeta.vip/assets/img/canales/xt/120.webp" group-title="Entretenimiento",FX
+https://cdn.gambeta.vip/tv/fx.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="tnt-series" tvg-name="TNT Series" tvg-logo="https://gambeta.vip/assets/img/canales/xt/146.webp" group-title="Entretenimiento",TNT Series
+https://cdn.gambeta.vip/tv/tnt-series.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="tnt-novelas" tvg-name="TNT Novelas" tvg-logo="https://gambeta.vip/assets/img/canales/xt/106.webp" group-title="Entretenimiento",TNT Novelas
+https://cdn.gambeta.vip/tv/tnt-novelas.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="telefe" tvg-name="Telefe" tvg-logo="https://gambeta.vip/assets/img/canales/tv/telefe.webp" group-title="Entretenimiento",Telefe
+https://cdn.gambeta.vip/tv/telefe.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="el-trece" tvg-name="El Trece" tvg-logo="https://gambeta.vip/assets/img/canales/tv/el-trece.webp" group-title="Entretenimiento",El Trece
+https://cdn.gambeta.vip/tv/el-trece.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="telemundo-51" tvg-name="Telemundo 51" tvg-logo="https://gambeta.vip/assets/img/canales/tv/telemundo-51.webp" group-title="Entretenimiento",Telemundo 51
+https://cdn.gambeta.vip/tv/telemundo-51.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="telemundo-puerto-rico" tvg-name="Telemundo Puerto Rico" tvg-logo="https://gambeta.vip/assets/img/canales/tv/telemundo-puerto-rico.webp" group-title="Entretenimiento",Telemundo Puerto Rico
+https://cdn.gambeta.vip/tv/telemundo-puerto-rico.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="univision" tvg-name="Univision" tvg-logo="https://gambeta.vip/assets/img/canales/tv/univision.webp" group-title="Entretenimiento",Univision
+https://cdn.gambeta.vip/tv/univision.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones" tvg-logo="https://gambeta.vip/assets/img/canales/tv/pasiones.webp" group-title="Entretenimiento",Pasiones
+https://cdn.gambeta.vip/tv/pasiones.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="tlnovelas" tvg-name="Tlnovelas" tvg-logo="https://gambeta.vip/assets/img/canales/tv/tlnovelas.webp" group-title="Entretenimiento",Tlnovelas
+https://cdn.gambeta.vip/tv/tlnovelas.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="las-estrellas" tvg-name="Las Estrellas" tvg-logo="https://gambeta.vip/assets/img/canales/tv/las-estrellas.webp" group-title="Entretenimiento",Las Estrellas
+https://cdn.gambeta.vip/tv/las-estrellas.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="antena-3" tvg-name="Antena 3" tvg-logo="https://gambeta.vip/assets/img/canales/tv/antena-3.webp" group-title="Entretenimiento",Antena 3
+https://cdn.gambeta.vip/tv/antena-3.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="dw-espanol" tvg-name="DW Español" tvg-logo="https://gambeta.vip/assets/img/canales/tv/dw-espanol.webp" group-title="Entretenimiento",DW Español
+https://cdn.gambeta.vip/tv/dw-espanol.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="caracol" tvg-name="Caracol" tvg-logo="https://gambeta.vip/assets/img/canales/tv/caracol.webp" group-title="Entretenimiento",Caracol
+https://cdn.gambeta.vip/tv/caracol.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="rcn" tvg-name="RCN" tvg-logo="https://gambeta.vip/assets/img/canales/tv/rcn.webp" group-title="Entretenimiento",RCN
+https://cdn.gambeta.vip/tv/rcn.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="latina" tvg-name="Latina" tvg-logo="https://gambeta.vip/assets/img/canales/tv/latina.webp" group-title="Entretenimiento",Latina
+https://cdn.gambeta.vip/tv/latina.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="america-tv" tvg-name="America TV" tvg-logo="https://gambeta.vip/assets/img/canales/tv/america-tv.webp" group-title="Entretenimiento",America TV
+https://cdn.gambeta.vip/tv/america-tv.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="unicable" tvg-name="Unicable" tvg-logo="https://gambeta.vip/assets/img/canales/tv/unicable.webp" group-title="Entretenimiento",Unicable
+https://cdn.gambeta.vip/tv/unicable.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="azteca-7" tvg-name="Azteca 7" tvg-logo="https://gambeta.vip/assets/img/canales/tv/azteca-7.webp" group-title="Entretenimiento",Azteca 7
+https://cdn.gambeta.vip/tv/azteca-7.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="azteca-uno" tvg-name="Azteca Uno" tvg-logo="https://gambeta.vip/assets/img/canales/tv/azteca-uno.webp" group-title="Entretenimiento",Azteca Uno
+https://cdn.gambeta.vip/tv/azteca-uno.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="canal-5" tvg-name="Canal 5" tvg-logo="https://gambeta.vip/assets/img/canales/tv/canal-5.webp" group-title="Entretenimiento",Canal 5
+https://cdn.gambeta.vip/tv/canal-5.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="https://gambeta.vip/assets/img/canales/tv/disney-channel.webp" group-title="Entretenimiento",Disney Channel
+https://cdn.gambeta.vip/tv/disney-channel.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://gambeta.vip/assets/img/canales/tv/cartoon-network.webp" group-title="Entretenimiento",Cartoon Network
+https://cdn.gambeta.vip/tv/cartoon-network.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://gambeta.vip/assets/img/canales/tv/tooncast.webp" group-title="Entretenimiento",Tooncast
+https://cdn.gambeta.vip/tv/tooncast.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://gambeta.vip/assets/img/canales/tv/tnt.webp" group-title="Entretenimiento",TNT
+https://cdn.gambeta.vip/tv/tnt.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="warner-channel" tvg-name="Warner Channel" tvg-logo="https://gambeta.vip/assets/img/canales/tv/warner-channel.webp" group-title="Entretenimiento",Warner Channel
+https://cdn.gambeta.vip/tv/warner-channel.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://gambeta.vip/assets/img/canales/tv/axn.webp" group-title="Entretenimiento",AXN
+https://cdn.gambeta.vip/tv/axn.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="extrema-tv" tvg-name="Extrema TV" tvg-logo="https://gambeta.vip/assets/img/canales/tv/extrema-tv.webp" group-title="Entretenimiento",Extrema TV
+https://cdn.gambeta.vip/tv/extrema-tv.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="star-channel" tvg-name="Star Channel" tvg-logo="https://gambeta.vip/assets/img/canales/xt/122.webp" group-title="Cine",Star Channel
+https://cdn.gambeta.vip/tv/star-channel.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://gambeta.vip/assets/img/canales/xt/6558.webp" group-title="Cine",Cinemax
+https://cdn.gambeta.vip/tv/cinemax.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="https://gambeta.vip/assets/img/canales/xt/119.webp" group-title="Cine",Cinecanal
+https://cdn.gambeta.vip/tv/cinecanal.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://gambeta.vip/assets/img/canales/xt/139.webp" group-title="Cine",Space
+https://cdn.gambeta.vip/tv/space.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="studio-universal" tvg-name="Studio Universal" tvg-logo="https://gambeta.vip/assets/img/canales/xt/6806.webp" group-title="Cine",Studio Universal
+https://cdn.gambeta.vip/tv/studio-universal.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="golden" tvg-name="Golden" tvg-logo="https://gambeta.vip/assets/img/canales/xt/6781.webp" group-title="Cine",Golden
+https://cdn.gambeta.vip/tv/golden.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://gambeta.vip/assets/img/canales/tv/amc.webp" group-title="Cine",AMC
+https://cdn.gambeta.vip/tv/amc.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="multipremier" tvg-name="Multipremier" tvg-logo="https://gambeta.vip/assets/img/canales/tv/multipremier.webp" group-title="Cine",Multipremier
+https://cdn.gambeta.vip/tv/multipremier.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="golden-plus" tvg-name="Golden Plus" tvg-logo="https://gambeta.vip/assets/img/canales/tv/golden-plus.webp" group-title="Cine",Golden Plus
+https://cdn.gambeta.vip/tv/golden-plus.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="golden-edge" tvg-name="Golden Edge" tvg-logo="https://gambeta.vip/assets/img/canales/tv/golden-edge.webp" group-title="Cine",Golden Edge
+https://cdn.gambeta.vip/tv/golden-edge.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="canal-sony" tvg-name="Canal Sony" tvg-logo="https://gambeta.vip/assets/img/canales/tv/canal-sony.webp" group-title="Cine",Canal Sony
+https://cdn.gambeta.vip/tv/canal-sony.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="https://gambeta.vip/assets/img/canales/xt/93.webp" group-title="Documentales",Discovery Channel
+https://cdn.gambeta.vip/tv/discovery-channel.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://gambeta.vip/assets/img/canales/xt/5973.webp" group-title="Documentales",History
+https://cdn.gambeta.vip/tv/history.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="Nat Geo" tvg-logo="https://gambeta.vip/assets/img/canales/xt/5970.webp" group-title="Documentales",Nat Geo
+https://cdn.gambeta.vip/tv/nat-geo.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://gambeta.vip/assets/img/canales/xt/92.webp" group-title="Documentales",Animal Planet
+https://cdn.gambeta.vip/tv/animal-planet.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="id-investigation" tvg-name="ID Investigation" tvg-logo="https://gambeta.vip/assets/img/canales/tv/id-investigation.webp" group-title="Documentales",ID Investigation
+https://cdn.gambeta.vip/tv/id-investigation.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="discovery-hyh" tvg-name="Discovery H&H" tvg-logo="https://gambeta.vip/assets/img/canales/tv/discovery-hyh.webp" group-title="Documentales",Discovery H&H
+https://cdn.gambeta.vip/tv/discovery-hyh.m3u8?k=10b39449428f113a5cf6d2a2
+#EXTINF:-1 tvg-id="history-2" tvg-name="History 2" tvg-logo="https://gambeta.vip/assets/img/canales/tv/history-2.webp" group-title="Documentales",History 2
+https://cdn.gambeta.vip/tv/history-2.m3u8?k=10b39449428f113a5cf6d2a2
