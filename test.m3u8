@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Bulk Import",ANIMAL PLANET
+http://181.119.66.28:8081/ANIMAL-PLANET-HD/index.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Bulk Import",AZTECA CORAZON
+http://181.119.66.28:8081/AZTECA-CORAZON/index.m3u8
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-name="BITME" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Bulk Import",BITME
+http://181.119.66.28:8081/BITME/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Bulk Import",CARTOON NETWORK
+http://181.119.66.28:8081/CARTOON-NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-name="CARTOONITO" tvg-logo="https://i.imgur.com/6vYWCD0.png" group-title="Bulk Import",CARTOONITO
+http://181.119.66.28:8081/CARTOONITO/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Bulk Import",CINECANAL
+http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DE PELICULA" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Bulk Import",DE PELICULA
+http://181.119.66.28:8081/DE-PELICULA/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Bulk Import",DISCOVERY KIDS
+http://181.119.66.28:8081/DISCOVERY-KIDS-HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="DISNEY" tvg-logo="https://dtil.tmsimg.com/assets/s158843_ld_h15_aa.png?lock=720x540" group-title="Bulk Import",DISNEY
+http://181.119.66.28:8081/DISNEY-HD/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Bulk Import",DISTRITO COMEDIA
+http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Bulk Import",ESPN 6
+http://181.119.66.28:8081/ESPN-6-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Bulk Import",ESPN 7
+http://181.119.66.28:8081/ESPN-7-HD/index.m3u8
+#EXTINF:-1 tvg-id="FX.cl" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Bulk Import",FX
+http://181.119.66.28:8081/FX-HD/index.m3u8
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Bulk Import",SPACE
+http://181.119.66.28:8081/SPACE/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.co" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Bulk Import",STAR CHANNEL
+http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" group-title="Bulk Import",TCM
+http://181.119.66.28:8081/TCM/index.m3u8
