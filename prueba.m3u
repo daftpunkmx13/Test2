@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-mx.xml.gz,https://iptv-epg.org/files/epg-ar.xml,https://iptv-epg.org/files/epg-co.xml.gz"
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History 2
+http://181.78.14.26:4000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History Channel
+http://190.61.90.17:40000/play/a0gk/index.m3u8
